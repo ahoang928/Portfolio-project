@@ -23,13 +23,20 @@
     cursor: pointer;
 }
 
+.desktopMenuBtn:hover{
+    color: teal;
+}
+
 .desktopMenuBtn {
     background: white ;
     border: none;
+    display: flex;
     height: 2rem;
     width: 8rem;
     align-items: center;
     justify-content: center;
+    padding: 0 1rem;
+    border-radius: 2rem;
 }
 .desktopMenuListItem {
     object-fit: cover;
