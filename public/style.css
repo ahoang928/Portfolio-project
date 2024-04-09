@@ -12,3 +12,7 @@ body {
     overflow: hidden;
     overflow-y: scroll;
 }
+
+.icon {
+    background: white ;
+}
